@@ -1,0 +1,21 @@
+body{
+    background-color: #714670;
+}
+div#cal1{
+    text-align: center;
+}
+input{
+    height: 60px;
+    width: 300px;
+    border-radius: 20px;
+    font: bold 25px arial, sans-serif;
+    color: #e94bb8;
+    margin: 5px;
+    box-shadow: rgba(0, 0, 0, 0.411) 4px 4px 4px;
+}
+div#imgcal{
+    text-align: center;
+    size: 300;
+    height: 300; 
+    width: 300;
+}

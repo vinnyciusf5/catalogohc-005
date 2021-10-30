@@ -1,0 +1,252 @@
+{
+	"products" : [
+		{
+			"name" : "K-Intt",
+			"price" : "35.99",
+			"options" : [
+				{ "Tamanho" : "35ml,Medium,Large" }
+			],
+			"image" : "https://miess.vteximg.com.br/arquivos/ids/200969-1000-1000/LH18_1.jpg?v=637222131803570000",
+			"description" : "Lubricante intimo"
+		},
+		{
+			"name" : "Lis-In",
+			"price" : "35.50",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" },
+				{ "Color" : "Blue,Red" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "https://miess.vteximg.com.br/arquivos/ids/237193-1000-1000/HC553_2.jpg?v=637683488159400000", 
+			"description" : "Anal"
+		},
+		{
+			"name" : "Xana Loka",
+			"price" : "15.99",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" },
+				{ "Color" : "Blue,Red" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "https://images.tcdn.com.br/img/img_prod/641835/xana_loka_excitante_feminino_809_1_20201214034849.jpg",
+			"description" : "This is a really cool blue T-shirt"
+		},
+		{
+			"name" : "K-Intt",
+			"price" : "35.99",
+			"options" : [
+				{ "Tamanho" : "35ml,Medium,Large" }
+			],
+			"image" : "https://miess.vteximg.com.br/arquivos/ids/200969-1000-1000/LH18_1.jpg?v=637222131803570000",
+			"description" : "Lubricante intimo"
+		},
+		{
+			"name" : "Lis-In",
+			"price" : "35.50",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" },
+				{ "Color" : "Blue,Red" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "https://miess.vteximg.com.br/arquivos/ids/237193-1000-1000/HC553_2.jpg?v=637683488159400000", 
+			"description" : "Anal"
+		},
+		{
+			"name" : "Xana Loka",
+			"price" : "15.99",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" },
+				{ "Color" : "Blue,Red" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "https://images.tcdn.com.br/img/img_prod/641835/xana_loka_excitante_feminino_809_1_20201214034849.jpg",
+			"description" : "This is a really cool blue T-shirt"
+		},
+		{
+			"name" : "K-Intt",
+			"price" : "35.99",
+			"options" : [
+				{ "Tamanho" : "35ml,Medium,Large" }
+			],
+			"image" : "https://miess.vteximg.com.br/arquivos/ids/200969-1000-1000/LH18_1.jpg?v=637222131803570000",
+			"description" : "Lubricante intimo"
+		},
+		{
+			"name" : "Lis-In",
+			"price" : "35.50",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" },
+				{ "Color" : "Blue,Red" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "https://miess.vteximg.com.br/arquivos/ids/237193-1000-1000/HC553_2.jpg?v=637683488159400000", 
+			"description" : "Anal"
+		},
+		{
+			"name" : "Xana Loka",
+			"price" : "15.99",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" },
+				{ "Color" : "Blue,Red" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "https://images.tcdn.com.br/img/img_prod/641835/xana_loka_excitante_feminino_809_1_20201214034849.jpg",
+			"description" : "This is a really cool blue T-shirt"
+		},
+		{
+			"name" : "K-Intt",
+			"price" : "35.99",
+			"options" : [
+				{ "Tamanho" : "35ml,Medium,Large" }
+			],
+			"image" : "https://miess.vteximg.com.br/arquivos/ids/200969-1000-1000/LH18_1.jpg?v=637222131803570000",
+			"description" : "Lubricante intimo"
+		},
+		{
+			"name" : "Lis-In",
+			"price" : "35.50",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" },
+				{ "Color" : "Blue,Red" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "https://miess.vteximg.com.br/arquivos/ids/237193-1000-1000/HC553_2.jpg?v=637683488159400000", 
+			"description" : "Anal"
+		},
+		{
+			"name" : "Xana Loka",
+			"price" : "15.99",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" },
+				{ "Color" : "Blue,Red" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "https://images.tcdn.com.br/img/img_prod/641835/xana_loka_excitante_feminino_809_1_20201214034849.jpg",
+			"description" : "This is a really cool blue T-shirt"
+		},
+		{
+			"name" : "K-Intt",
+			"price" : "35.99",
+			"options" : [
+				{ "Tamanho" : "35ml,Medium,Large" }
+			],
+			"image" : "https://miess.vteximg.com.br/arquivos/ids/200969-1000-1000/LH18_1.jpg?v=637222131803570000",
+			"description" : "Lubricante intimo"
+		},
+		{
+			"name" : "Lis-In",
+			"price" : "35.50",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" },
+				{ "Color" : "Blue,Red" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "https://miess.vteximg.com.br/arquivos/ids/237193-1000-1000/HC553_2.jpg?v=637683488159400000", 
+			"description" : "Anal"
+		},
+		{
+			"name" : "Xana Loka",
+			"price" : "15.99",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" },
+				{ "Color" : "Blue,Red" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "https://images.tcdn.com.br/img/img_prod/641835/xana_loka_excitante_feminino_809_1_20201214034849.jpg",
+			"description" : "This is a really cool blue T-shirt"
+		},
+		{
+			"name" : "K-Intt",
+			"price" : "35.99",
+			"options" : [
+				{ "Tamanho" : "35ml,Medium,Large" }
+			],
+			"image" : "https://miess.vteximg.com.br/arquivos/ids/200969-1000-1000/LH18_1.jpg?v=637222131803570000",
+			"description" : "Lubricante intimo"
+		},
+		{
+			"name" : "Lis-In",
+			"price" : "35.50",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" },
+				{ "Color" : "Blue,Red" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "https://miess.vteximg.com.br/arquivos/ids/237193-1000-1000/HC553_2.jpg?v=637683488159400000", 
+			"description" : "Anal"
+		},
+		{
+			"name" : "Xana Loka",
+			"price" : "15.99",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" },
+				{ "Color" : "Blue,Red" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "https://images.tcdn.com.br/img/img_prod/641835/xana_loka_excitante_feminino_809_1_20201214034849.jpg",
+			"description" : "This is a really cool blue T-shirt"
+		},
+		{
+			"name" : "K-Intt",
+			"price" : "35.99",
+			"options" : [
+				{ "Tamanho" : "35ml,Medium,Large" }
+			],
+			"image" : "https://miess.vteximg.com.br/arquivos/ids/200969-1000-1000/LH18_1.jpg?v=637222131803570000",
+			"description" : "Lubricante intimo"
+		},
+		{
+			"name" : "Lis-In",
+			"price" : "35.50",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" },
+				{ "Color" : "Blue,Red" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "https://miess.vteximg.com.br/arquivos/ids/237193-1000-1000/HC553_2.jpg?v=637683488159400000", 
+			"description" : "Anal"
+		},
+		{
+			"name" : "Xana Loka",
+			"price" : "15.99",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" },
+				{ "Color" : "Blue,Red" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "https://images.tcdn.com.br/img/img_prod/641835/xana_loka_excitante_feminino_809_1_20201214034849.jpg",
+			"description" : "This is a really cool blue T-shirt"
+		},
+		{
+			"name" : "K-Intt",
+			"price" : "35.99",
+			"options" : [
+				{ "Tamanho" : "35ml,Medium,Large" }
+			],
+			"image" : "https://miess.vteximg.com.br/arquivos/ids/200969-1000-1000/LH18_1.jpg?v=637222131803570000",
+			"description" : "Lubricante intimo"
+		},
+		{
+			"name" : "Lis-In",
+			"price" : "35.50",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" },
+				{ "Color" : "Blue,Red" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "https://miess.vteximg.com.br/arquivos/ids/237193-1000-1000/HC553_2.jpg?v=637683488159400000", 
+			"description" : "Anal"
+		},
+		{
+			"name" : "Xana Loka",
+			"price" : "15.99",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" },
+				{ "Color" : "Blue,Red" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "https://images.tcdn.com.br/img/img_prod/641835/xana_loka_excitante_feminino_809_1_20201214034849.jpg",
+			"description" : "This is a really cool blue T-shirt"
+		}
+	]
+}
